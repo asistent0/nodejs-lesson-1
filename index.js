@@ -4,7 +4,6 @@ console.log(colors.green.bgWhite('hello')); // outputs green text
 console.log(colors.red.underline.bgCyan('i like cake and pies')); // outputs red underlined text
 console.log(colors.inverse.bgMagenta('inverse the color')); // inverses the color
 console.log(colors.rainbow('OMG Rainbows!')); // rainbow
-console.log(colors.trap('Run the trap')); // Drops the bass
 
 
 var beep = require('beepbeep');
